@@ -1,0 +1,7 @@
+default_location                = "uksouth"
+root_id                         = "es"
+root_name                       = "Enterprise-Scale"
+root_parent_management_group_id = ""
+subscription_id_connectivity    = "8560d7f5-eaa4-43d0-b8c6-8b4f391219f9"
+subscription_id_identity        = "8560d7f5-eaa4-43d0-b8c6-8b4f391219f9"
+subscription_id_management      = "8560d7f5-eaa4-43d0-b8c6-8b4f391219f9"
